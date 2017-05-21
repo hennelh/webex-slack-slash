@@ -1,5 +1,5 @@
 #Replace the application id below with yours
-application: yourHookLocation
+application: application-id
 version: 2
 runtime: go
 api_version: go1
