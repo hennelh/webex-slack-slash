@@ -5,3 +5,9 @@ baseurl: '/webex-slack-slash'
 ## personalize page
 title: WebEx Room
 author: Henry Harrison
+
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      image: true
