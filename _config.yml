@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 
+baseurl: /webex-slack-slash
+
 ## personalize page
 title: WebEx Room
 author: Henry Harrison
