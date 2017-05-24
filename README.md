@@ -1,7 +1,6 @@
 # webex-slack-slash
 Slack Slash command to post a webex link in channel
 
-You need to set up a slashcommand in Slack with a link to your webhook.
 
 Usage:
 
