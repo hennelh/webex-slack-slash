@@ -1,5 +1,3 @@
-awe masekind
-
 ## Usage:
 
 <b>/webex</b> places a link to https://[company_name].webex.com/join/[slack_username]
