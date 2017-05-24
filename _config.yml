@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-baseurl: /webex-slack-slash
+baseurl: '/webex-slack-slash'
 
 ## personalize page
 title: WebEx Room
