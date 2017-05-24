@@ -6,8 +6,4 @@
 
 <b>/webex help</b> lists usage options for this slash command
 
-<p align="center">
-  <img src="/assets/slack.PNG" alt="slack usage"/>
-</p>
-
 ![Slack Usage](/assets/slack.PNG)
